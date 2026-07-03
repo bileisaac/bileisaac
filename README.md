@@ -32,7 +32,7 @@ Mon objectif est de construire des solutions data fiables, utiles et compréhens
 <div align="center">
 
 <img src="https://img.shields.io/badge/Bas%C3%A9%20en-France-002395?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ouvert%20aux-opportunit%C3%A9s%20Data%20Science%20%7C%20Reporting%20%7C%20MLOps-2ea44f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science%20%7C%20Reporting%20%7C%20MLOps-2ea44f?style=for-the-badge"/>
 
 </div>
 
@@ -62,14 +62,14 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,git,github,docker,vscode,postgres,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,r,git,github,docker,vscode&theme=dark"/>
 
-<br/><br/>
+<br><br>
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLOps-2ea44f?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Reporting%20Automation-6f42c1?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
 </div>
 
@@ -174,28 +174,6 @@ flowchart TD
 | 🔄 **Customer Churn** | Modèle de classification pour prédire le churn client | `Python` `Scikit-learn` | ⚪ Planifié |
 | ⚙️ **Reporting Automation** | Pipeline de reporting quotidien automatisé | `Python` `SQL` `GitHub Actions` | ⚪ Planifié |
 | 🐳 **MLOps Pipeline** | Workflow ML de bout en bout avec déploiement et monitoring | `Python` `Docker` `CI/CD` | ⚪ Planifié |
-
----
-
-## 🗺️ Feuille de Route
-
-```mermaid
-gantt
-    title Roadmap Data Science et MLOps
-    dateFormat  YYYY-MM-DD
-
-    section Fondations
-    Setup profil GitHub      :done, a1, 2026-07-03, 1d
-    README professionnel     :active, a2, 2026-07-03, 2d
-
-    section Projets
-    Analyse des ventes       :a3, 2026-07-05, 7d
-    Projet Machine Learning  :a4, 2026-07-12, 10d
-
-    section Avancé
-    Reporting automation     :a5, 2026-07-22, 7d
-    Pipeline MLOps et CI/CD  :a6, 2026-08-01, 10d
-```
 
 ---
 
