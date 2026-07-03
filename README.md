@@ -23,7 +23,7 @@
 
 Je suis **Bile Isaac**, passionné par la **Data Science**, le **Machine Learning**, le **Reporting automatisé** et les pratiques **MLOps**.
 
-Mon objectif est de construire des solutions data fiables, utiles et compréhensibles, capables d’aider à la prise de décision métier.
+Mon objectif est de construire des solutions data fiables, utiles et compréhensibles, capables d'aider à la prise de décision métier.
 
 ---
 
@@ -54,7 +54,7 @@ flowchart LR
     style E fill:#2ea44f,color:#fff
     style F fill:#6f42c1,color:#fff
     style H fill:#f2c811,color:#000
-````
+```
 
 ---
 
@@ -154,12 +154,12 @@ flowchart TD
 
 ## 🚀 Projets Phares
 
-| Projet                      | Description                                                |              Stack              |    Statut   |
-| --------------------------- | ---------------------------------------------------------- | :-----------------------------: | :---------: |
-| 📊 **Sales Analysis**       | Analyse exploratoire avec visualisations professionnelles  |    `Python` `SQL` `Power BI`    | 🟡 En cours |
-| 🔄 **Customer Churn**       | Modèle de classification pour prédire le churn client      |     `Python` `Scikit-learn`     |  ⚪ Planifié |
-| ⚙️ **Reporting Automation** | Pipeline de reporting quotidien automatisé                 | `Python` `SQL` `GitHub Actions` |  ⚪ Planifié |
-| 🐳 **MLOps Pipeline**       | Workflow ML de bout en bout avec déploiement et monitoring |    `Python` `Docker` `CI/CD`    |  ⚪ Planifié |
+| Projet | Description | Stack | Statut |
+|---|---|:---:|:---:|
+| 📊 **Sales Analysis** | Analyse exploratoire avec visualisations professionnelles | `Python` `SQL` `Power BI` | 🟡 En cours |
+| 🔄 **Customer Churn** | Modèle de classification pour prédire le churn client | `Python` `Scikit-learn` | ⚪ Planifié |
+| ⚙️ **Reporting Automation** | Pipeline de reporting quotidien automatisé | `Python` `SQL` `GitHub Actions` | ⚪ Planifié |
+| 🐳 **MLOps Pipeline** | Workflow ML de bout en bout avec déploiement et monitoring | `Python` `Docker` `CI/CD` | ⚪ Planifié |
 
 ---
 
