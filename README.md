@@ -115,7 +115,11 @@ pie showData
 
 Un serpent animé qui "mange" ta grille de contributions est possible, mais il demande une étape de configuration en plus (un GitHub Action doit tourner au moins une fois pour générer l'image). Tant que ce n'est pas fait, l'image n'existe pas encore et s'affiche cassée — c'est pour ça que je l'ai retirée du README pour l'instant.
 
-👉 Si tu veux l'activer : dépose le fichier `snake.yml` (fourni séparément) dans `bileisaac/bileisaac/.github/workflows/snake.yml`, lance-le une fois depuis l'onglet **Actions → Run workflow**, puis dis-le moi et je rajoute l'image dans le README — elle fonctionnera à ce moment-là.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bileisaac/bileisaac/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bileisaac/bileisaac/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bileisaac/bileisaac/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
