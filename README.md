@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:2ea44f&height=220&section=header&text=Bile%20Isaac&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Machine%20Learning%20%7C%20MLOps&descAlignY=55&descSize=20"/>
@@ -199,4 +198,3 @@ gantt
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,100:1f6feb&height=100&section=footer"/>
 
 </div>
-```
