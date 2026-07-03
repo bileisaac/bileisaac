@@ -27,17 +27,6 @@ Mon objectif est de construire des solutions data fiables, utiles et compréhens
 
 ---
 
-## 📍 Localisation
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Bas%C3%A9%20en-France-002395?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Science%20%7C%20Reporting%20%7C%20MLOps-2ea44f?style=for-the-badge"/>
-
-</div>
-
----
-
 ## 🔁 Workflow Professionnel
 
 ```mermaid
@@ -62,7 +51,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,git,github,docker,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,r,git,github,docker,vscode,mysql,postgres&theme=dark"/>
 
 <br><br>
 
